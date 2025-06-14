@@ -1,0 +1,230 @@
+symptom_name,condition_name,strength
+Runny Nose,Common Cold,0.9
+Cough,Common Cold,0.8
+Sore Throat,Common Cold,0.7
+Sneezing,Common Cold,0.8
+Stuffy Nose,Common Cold,0.7
+Fatigue,Common Cold,0.5
+Fever,Influenza,0.9
+Muscle Aches,Influenza,0.8
+Fatigue,Influenza,0.9
+Headache,Influenza,0.7
+Cough,Influenza,0.6
+Chills,Influenza,0.7
+Weakness,Influenza,0.6
+Fever,Pneumonia,0.9
+Cough,Pneumonia,0.9
+Chest Pain,Pneumonia,0.8
+Shortness of Breath,Pneumonia,0.8
+Fatigue,Pneumonia,0.7
+Chills,Pneumonia,0.6
+Cough,Bronchitis,0.9
+Chest Pain,Bronchitis,0.6
+Fatigue,Bronchitis,0.5
+Shortness of Breath,Bronchitis,0.4
+Wheezing,Asthma Attack,0.9
+Shortness of Breath,Asthma Attack,0.9
+Chest Pain,Asthma Attack,0.7
+Cough,Asthma Attack,0.6
+Fever,COVID-19,0.8
+Cough,COVID-19,0.8
+Fatigue,COVID-19,0.7
+Loss of Appetite,COVID-19,0.6
+Muscle Aches,COVID-19,0.5
+Shortness of Breath,COVID-19,0.5
+Runny Nose,Allergic Rhinitis,0.9
+Sneezing,Allergic Rhinitis,0.9
+Stuffy Nose,Allergic Rhinitis,0.8
+Headache,Sinusitis,0.8
+Stuffy Nose,Sinusitis,0.9
+Runny Nose,Sinusitis,0.6
+Sore Throat,Strep Throat,0.9
+Fever,Strep Throat,0.8
+Headache,Strep Throat,0.5
+Chest Pain,Pneumothorax,0.9
+Shortness of Breath,Pneumothorax,0.9
+Chest Pain,Pulmonary Embolism,0.8
+Shortness of Breath,Pulmonary Embolism,0.9
+Sore Throat,Laryngitis,0.9
+Cough,Laryngitis,0.6
+Cough,Croup,0.9
+Sore Throat,Croup,0.6
+Fever,Croup,0.5
+Fever,RSV,0.7
+Cough,RSV,0.8
+Runny Nose,RSV,0.7
+Fatigue,RSV,0.6
+Cough,Whooping Cough,0.9
+Fatigue,Whooping Cough,0.6
+Nausea,Food Poisoning,0.9
+Vomiting,Food Poisoning,0.9
+Diarrhea,Food Poisoning,0.8
+Stomach Pain,Food Poisoning,0.8
+Fever,Food Poisoning,0.5
+Weakness,Food Poisoning,0.6
+Stomach Pain,Gastritis,0.9
+Nausea,Gastritis,0.7
+Heartburn,Gastritis,0.6
+Loss of Appetite,Gastritis,0.5
+Stomach Pain,Appendicitis,0.9
+Nausea,Appendicitis,0.8
+Vomiting,Appendicitis,0.7
+Fever,Appendicitis,0.6
+Heartburn,GERD,0.9
+Chest Pain,GERD,0.6
+Cough,GERD,0.4
+Nausea,Stomach Flu,0.9
+Vomiting,Stomach Flu,0.8
+Diarrhea,Stomach Flu,0.8
+Fever,Stomach Flu,0.6
+Fatigue,Stomach Flu,0.7
+Constipation,Constipation,0.9
+Stomach Pain,Constipation,0.5
+Bloating,Constipation,0.6
+Stomach Pain,Gallstones,0.9
+Nausea,Gallstones,0.8
+Vomiting,Gallstones,0.6
+Stomach Pain,Pancreatitis,0.9
+Nausea,Pancreatitis,0.8
+Vomiting,Pancreatitis,0.8
+Fever,Pancreatitis,0.6
+Stomach Pain,Bowel Obstruction,0.9
+Vomiting,Bowel Obstruction,0.9
+Bloating,Bowel Obstruction,0.8
+Constipation,Bowel Obstruction,0.7
+Stomach Pain,Peptic Ulcer,0.9
+Heartburn,Peptic Ulcer,0.7
+Nausea,Peptic Ulcer,0.6
+Back Pain,Kidney Stones,0.9
+Nausea,Kidney Stones,0.7
+Vomiting,Kidney Stones,0.6
+Fatigue,Hepatitis,0.9
+Loss of Appetite,Hepatitis,0.8
+Nausea,Hepatitis,0.7
+Stomach Pain,Hepatitis,0.6
+Joint Pain,Inflammatory Bowel Disease,0.4
+Fatigue,Inflammatory Bowel Disease,0.6
+Stomach Pain,Inflammatory Bowel Disease,0.8
+Diarrhea,Inflammatory Bowel Disease,0.8
+Bloating,Lactose Intolerance,0.8
+Diarrhea,Lactose Intolerance,0.8
+Stomach Pain,Lactose Intolerance,0.7
+Nausea,Lactose Intolerance,0.5
+Back Pain,Hemorrhoids,0.6
+Headache,Tension Headache,0.9
+Muscle Aches,Tension Headache,0.4
+Fatigue,Tension Headache,0.3
+Headache,Migraine,0.9
+Nausea,Migraine,0.8
+Dizziness,Migraine,0.6
+Fatigue,Migraine,0.5
+Headache,Cluster Headache,0.9
+Headache,Concussion,0.9
+Dizziness,Concussion,0.8
+Confusion,Concussion,0.8
+Nausea,Concussion,0.6
+Memory Problems,Concussion,0.5
+Dizziness,Vertigo,0.9
+Nausea,Vertigo,0.6
+Headache,Stroke,0.8
+Weakness,Stroke,0.9
+Confusion,Stroke,0.8
+Dizziness,Stroke,0.6
+Headache,Meningitis,0.9
+Fever,Meningitis,0.9
+Nausea,Meningitis,0.7
+Confusion,Meningitis,0.6
+Confusion,Seizure,0.8
+Weakness,Seizure,0.6
+Memory Problems,Seizure,0.5
+Dizziness,Fainting,0.9
+Weakness,Fainting,0.8
+Nausea,Fainting,0.4
+Weakness,Transient Ischemic Attack,0.9
+Confusion,Transient Ischemic Attack,0.8
+Dizziness,Transient Ischemic Attack,0.7
+Headache,Transient Ischemic Attack,0.6
+Headache,Trigeminal Neuralgia,0.9
+Numbness,Peripheral Neuropathy,0.9
+Tingling,Peripheral Neuropathy,0.9
+Weakness,Peripheral Neuropathy,0.5
+Fatigue,Sleep Apnea,0.8
+Headache,Sleep Apnea,0.4
+Chest Pain,Heart Attack,0.9
+Shortness of Breath,Heart Attack,0.8
+Nausea,Heart Attack,0.6
+Dizziness,Heart Attack,0.5
+Weakness,Heart Attack,0.6
+Fatigue,Heart Attack,0.4
+Shortness of Breath,Anaphylaxis,0.9
+Rash,Anaphylaxis,0.8
+Dizziness,Anaphylaxis,0.7
+Nausea,Anaphylaxis,0.6
+Vomiting,Anaphylaxis,0.5
+Weakness,Anaphylaxis,0.7
+Nausea,Diabetic Ketoacidosis,0.8
+Vomiting,Diabetic Ketoacidosis,0.8
+Weakness,Diabetic Ketoacidosis,0.9
+Confusion,Diabetic Ketoacidosis,0.7
+Shortness of Breath,Diabetic Ketoacidosis,0.6
+Fever,Sepsis,0.9
+Chills,Sepsis,0.8
+Weakness,Sepsis,0.9
+Confusion,Sepsis,0.8
+Shortness of Breath,Sepsis,0.7
+Dizziness,Sepsis,0.6
+Dizziness,Severe Dehydration,0.9
+Weakness,Severe Dehydration,0.9
+Confusion,Severe Dehydration,0.8
+Headache,Severe Dehydration,0.7
+Nausea,Severe Dehydration,0.6
+Nausea,Acute Kidney Failure,0.8
+Vomiting,Acute Kidney Failure,0.7
+Weakness,Acute Kidney Failure,0.8
+Confusion,Acute Kidney Failure,0.6
+Shortness of Breath,Acute Kidney Failure,0.5
+Shortness of Breath,Severe Asthma Attack,0.9
+Wheezing,Severe Asthma Attack,0.9
+Chest Pain,Severe Asthma Attack,0.8
+Weakness,Severe Asthma Attack,0.6
+Dizziness,Severe Asthma Attack,0.5
+Shortness of Breath,Choking,0.9
+Chest Pain,Choking,0.6
+Weakness,Choking,0.7
+Dizziness,Choking,0.6
+Weakness,Severe Bleeding,0.9
+Dizziness,Severe Bleeding,0.9
+Confusion,Severe Bleeding,0.7
+Shortness of Breath,Severe Bleeding,0.6
+Nausea,Severe Bleeding,0.5
+Weakness,Shock,0.9
+Dizziness,Shock,0.9
+Confusion,Shock,0.8
+Shortness of Breath,Shock,0.8
+Nausea,Shock,0.6
+Nausea,Acute Poisoning,0.9
+Vomiting,Acute Poisoning,0.9
+Confusion,Acute Poisoning,0.8
+Weakness,Acute Poisoning,0.8
+Dizziness,Acute Poisoning,0.7
+Shortness of Breath,Acute Poisoning,0.6
+Headache,Head Trauma,0.9
+Confusion,Head Trauma,0.9
+Dizziness,Head Trauma,0.8
+Nausea,Head Trauma,0.7
+Vomiting,Head Trauma,0.6
+Memory Problems,Head Trauma,0.7
+Weakness,Head Trauma,0.5
+Back Pain,Spinal Injury,0.9
+Numbness,Spinal Injury,0.9
+Tingling,Spinal Injury,0.8
+Weakness,Spinal Injury,0.9
+Confusion,Overdose,0.9
+Weakness,Overdose,0.8
+Dizziness,Overdose,0.8
+Nausea,Overdose,0.7
+Vomiting,Overdose,0.7
+Shortness of Breath,Overdose,0.6
+Weakness,Severe Burns,0.7
+Dizziness,Severe Burns,0.6
+Nausea,Severe Burns,0.5
